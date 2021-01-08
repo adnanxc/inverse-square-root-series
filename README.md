@@ -1,0 +1,1 @@
+# inverse-square-root-series
